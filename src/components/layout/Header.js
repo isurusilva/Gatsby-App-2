@@ -1,7 +1,5 @@
 import { Link } from "gatsby";
-import React, { useState } from "react";
-import { useRef } from "react";
-import { useEffect } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import styled from "styled-components";
 import { menuData } from "../../data/menuData";
 import MenyButton from "../buttons/MenuButton";

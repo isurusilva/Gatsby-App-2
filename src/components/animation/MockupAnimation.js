@@ -1,10 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-// import mock1 from "../../static/images/animations/mockup1.svg";
-// import mock2 from "../../static/images/animations/mockup2.svg";
-// import mock3 from "../../static/images/animations/mockup3.svg";
-// import mock4 from "../../static/images/animations/mockup4.svg";
-// import mock5 from "../../static/images/animations/mockup5.svg";
 
 export default function MockupAnimation() {
   return (
