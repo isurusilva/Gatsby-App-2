@@ -8,7 +8,6 @@ module.exports = {
     author: `@isurusilva`,
   },
   plugins: [
-    `gatsby-plugin-google-gtag`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -18,6 +17,5 @@ module.exports = {
       },
     },
     `gatsby-plugin-styled-components`,
-    `gatsby-plugin-offline`,
   ],
 };
